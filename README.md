@@ -1,5 +1,6 @@
 
-#𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
+#𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+https://nirvana2512.github.io/Portfolio_AmiPatel/
 
 * Primary coding language: Python.
 * I’m currently working on my portfolio.
@@ -9,7 +10,7 @@
 * smile Pronouns: She/her
 
 
-My_Portfolio
 
-https://nirvana2512.github.io/Portfolio_AmiPatel/
+
+
 
