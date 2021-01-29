@@ -1,6 +1,6 @@
 # [AMI PATEL](https://nirvana2512.github.io/Portfolio_AmiPatel/)
 Python | C++ | VB.Net | HTML | CSS
-
+<p align="center">
 ![alt text](https://github.com/Nirvana2512/Nirvana2512/blob/master/p.png)<!--(https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover.png)-->
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
