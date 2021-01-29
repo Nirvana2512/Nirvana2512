@@ -1,7 +1,7 @@
 # [AMI PATEL](https://nirvana2512.github.io/Portfolio_AmiPatel/)
-Python | C++ | VB.Net | HTML | CSS
+Python | MySQL | C++ | VB.Net | HTML | CSS | JavaScript
 
-![alt text](https://github.com/Nirvana2512/Nirvana2512/blob/master/p.png)<!--(https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover.png)-->
+![alt text](https://github.com/Nirvana2512/Nirvana2512/blob/master/p.png)
 <!--p align="center"-->
   <b><i>Let's connect! Find me on the web.</i></b>
 
@@ -28,7 +28,7 @@ Python | C++ | VB.Net | HTML | CSS
 * Competitive Programmer
 * Ask me about anything, I'll be happy to help.
 * smile Pronouns: She/her
-<!--* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi)
+<!--* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://)
 * 🏠 Hogwarts House: Griffindor
 * If you play Call of Duty- add me: Blackhood00-->
 
