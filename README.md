@@ -1,8 +1,8 @@
 # [AMI PATEL](https://nirvana2512.github.io/Portfolio_AmiPatel/)
 Python | C++ | VB.Net | HTML | CSS
 
-![alt text]<p align="center">(https://github.com/Nirvana2512/Nirvana2512/blob/master/p.png)<!--(https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover.png)-->
-<p align="center">
+![alt text](https://github.com/Nirvana2512/Nirvana2512/blob/master/p.png)<!--(https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover.png)-->
+<!--p align="center"-->
   <b><i>Let's connect! Find me on the web.</i></b>
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
