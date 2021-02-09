@@ -1,5 +1,5 @@
 # [AMI PATEL](https://nirvana2512.github.io/Portfolio_AmiPatel/)
-Python | MySQL | C++ | VB.Net | HTML | CSS | JavaScript
+HTML | CSS | JavaScript | Python | MySQL | C++ | VB.Net 
 
 ![alt text](https://github.com/Nirvana2512/Nirvana2512/blob/master/p.png)
 <!--p align="center"-->
@@ -20,9 +20,9 @@ Python | MySQL | C++ | VB.Net | HTML | CSS | JavaScript
 <!-- Namaste 🙏 -->
  <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
-* I'm Data Science Enthuestic.
-* & Freelance Frontend Developer.
-* Primary coding language: Python.
+* I'm Freelance Frontend Developer.
+* & Full Stack Enthuestic.
+* Primary coding language: HTML | CSS | JavaScript.
 * I’m currently working on my projects.
 * I'm looking to collaborate on Open source project.
 * Competitive Programmer
